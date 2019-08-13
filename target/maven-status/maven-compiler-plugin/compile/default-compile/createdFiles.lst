@@ -1,0 +1,6 @@
+org\springboot\direct\Women.class
+org\springboot\direct\Man.class
+org\springboot\entity\User.class
+org\springboot\direct\Bank.class
+org\springboot\web\HelloController.class
+org\springboot\SpringBootAjaxApplication.class
